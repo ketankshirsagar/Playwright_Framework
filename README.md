@@ -104,7 +104,7 @@ Net effect: **a 30-test suite that would take 5 minutes (login per test) runs in
 
 ---
 
-## Trade-offs (interview honesty)
+## Trade-offs
 
 - **Selenium**: more mature ecosystem, broader language support, but slower and more flaky out of the box
 - **Cypress**: nicer DX for frontend devs, but limited cross-origin support and only one browser tab
